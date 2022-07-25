@@ -8,4 +8,6 @@ The data set used in this project was collected by The Equality of Opportunity P
 # Running the Analysis
 Step 1: Installing Programs To replicate this analysis, you will need to install R and R Studio. I created visualizations using Datawrapper and smaller, more defined data sets made using the raw data on R.
 Step 2: Download the data set from The Equality of Opportunity Project: [Race and Economic Opportunity in The United States: An Intergenerational Perspective]([url](http://www.equality-of-opportunity.org/data/race/table_1.csv)), Table 1.
-Step 3: 
+Step 3: Run the R Script
+The data was cleaned and confined into smaller data sets using R. To see these as well as a few visualizations created on R, run the analysis using the R Script.
+Step 4: Visualizations created after cleaning and performing some analysis on the data in R. Visualizations were created using DataWrapper.
